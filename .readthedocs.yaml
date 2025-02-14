@@ -30,7 +30,3 @@ sphinx:
 python:
    install:
    - requirements: docs/requirements.txt
-  
-versions:
-  - v0.1
-  - v0.2
